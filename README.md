@@ -1,8 +1,6 @@
 ### About Me
 
- - My name is Aurelio
- - I love playing video games, programming, and eating. 
- - If I'm not at my computer, I'm most likely outside playing sports or hanging with my friends.
+Hey! My name is Aurelio. I'm a Full Stack Web Development student at Lambda School. I'm passionate about video games and building websites that are linked to video games.
  
- ### Contact Me
-Email: aurelioarcabascio@gmail.com
+### Socials
+I'm on [LinkedIn](https://www.linkedin.com/in/aurelio-arcabascio/) and you can email me at aurelioarcabascio@gmail.com
